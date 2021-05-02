@@ -1,2 +1,4 @@
 # bar_chart_race_using-python-and-matplotlib.
 To visualize the features of different categories we use bar charts which are a very simple way of presenting the features. But when we are having a lot of features in one category only then a bar chart will not help. In this case, the Bar Chart Race will come into use. In this article, I will take you through creating an animated bar chart race with Python. A bar chart race helps in visualizing the change in features over time for each category.
+For the task of creating an animated bar chart race, I will be using the population over the years dataset provided by John Burn-Murdoch who created reproducible notebook using d3.js.
+Matplotlib’s style defaults are designed for many common situations, but are in no way optimal for our aesthetics. So, bulk of our code would go into styling (axes, text, colors, ticks etc)
